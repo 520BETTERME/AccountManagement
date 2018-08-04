@@ -15,7 +15,6 @@ import sun.misc.BASE64Encoder;
 
 /**
  * DES加密 解密算法
- * @author zhangdi
  */
 public class Crypto {
 
@@ -126,7 +125,7 @@ public class Crypto {
 //    public static void main(String[] args){
 //
 //        Crypto crypto = new Crypto();
-//        String data = "赵卫华";
+//        String data = "";
 //        System.out.println("加密前===>"+data);
 //        try {
 //            String jiamihou = crypto.encrypt(data);
