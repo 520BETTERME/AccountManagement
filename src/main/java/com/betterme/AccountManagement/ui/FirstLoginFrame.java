@@ -212,7 +212,7 @@ public class FirstLoginFrame extends FWindow implements FocusListener, ActionLis
             JScrollPane jScrollPane = new JScrollPane(aboutArea);
             jScrollPane.setBorder(null);
             //jScrollPane.setBackground(new Color(186, 225, 234));
-            aboutArea.setFont(new Font("黑体", Font.PLAIN, 20));
+            aboutArea.setFont(new Font("黑体", Font.PLAIN, 19));
             aboutArea.setEditable(false);
             aboutArea.setBorder(null);
             //aboutArea.setBounds(50, 0, 500, 400);
