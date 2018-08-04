@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AM_jar</output-path>
+    <root id="archive" name="AccountManagement.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/AM_jar/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="AccountManagement" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/jaxen/jaxen/1.1.6/jaxen-1.1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
